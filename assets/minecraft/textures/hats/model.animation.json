@@ -1,0 +1,82 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"point.spartan.test": {
+			"loop": true,
+			"bones": {
+				"UpperLeftArm": {
+					"rotation": [0, 0, 420]
+				},
+				"LowerLeftArm": {
+					"rotation": [-10, 15, 15]
+				},
+				"LeftHand": {
+					"rotation": [30, 15, 10]
+				},
+				"UpperRightArm": {
+					"rotation": [-40, -30, -45]
+				},
+				"LowerRightArm": {
+					"rotation": [10, -55, -10]
+				},
+				"RightHand": {
+					"rotation": [60, 0, -10]
+				},
+				"Neck": {
+					"rotation": [10, 25, 0]
+				},
+				"Head": {
+					"rotation": [-15, 0, 0]
+				},
+				"Pointer": {
+					"rotation": [0, 10, 25]
+				},
+				"Ring": {
+					"rotation": [0, -5, 0]
+				},
+				"Middle": {
+					"rotation": [0, 0, 10]
+				},
+				"Pinky": {
+					"rotation": [0, -15, -10]
+				},
+				"Thumb": {
+					"rotation": [50, 0, 0]
+				},
+				"Pointer2": {
+					"rotation": [10, 0, 0]
+				},
+				"Middle2": {
+					"rotation": [0, 0, -110]
+				},
+				"Ring2": {
+					"rotation": [0, 0, -105]
+				},
+				"Pinky2": {
+					"rotation": [0, 0, -105]
+				},
+				"Thumb2": {
+					"rotation": [30, 0, 0]
+				},
+				"LowerLeftLeg": {
+					"rotation": [20, 0, 0]
+				},
+				"UpperLeftLeg": {
+					"rotation": [-10, -15, 0]
+				},
+				"LeftFoot": {
+					"rotation": [-10, 0, 0]
+				},
+				"RightFoot": {
+					"rotation": [-15, 0, 0]
+				},
+				"UpperRightLeg": {
+					"rotation": [0, 15, 0]
+				},
+				"LowerRightLeg": {
+					"rotation": [15, 0, 0]
+				}
+			}
+		}
+	}
+}
