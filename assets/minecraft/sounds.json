@@ -1,0 +1,50 @@
+{
+  "gun.m4a1": {
+    "sounds": ["gun/m4a1-1","gun/m4a1-2","gun/m4a1-3","gun/m4a1-4"]
+  },
+  "gun.ak47": {
+    "sounds": ["gun/ak47-1","gun/ak47-2"]
+  },
+  "gun.famas": {
+    "sounds": ["gun/famas-1","gun/famas-2","gun/famas-3","gun/famas-4"]
+  },
+  "gun.galil": {
+    "sounds": ["gun/galil-1","gun/galil-2","gun/galil-3"]
+  },
+  "gun.glock": {
+    "sounds": ["gun/glock-1","gun/glock-2"]
+  },
+  "gun.deagle": {
+    "sounds": ["gun/deagle-1","gun/deagle-2"]
+  },
+  "gun.smoke": {
+    "sounds": ["gun/grenade-smoke"]
+  },
+  "gun.fire": {
+    "sounds": ["gun/grenade-fire"]
+  },
+  "gun.scope": {
+    "sounds": ["gun/zoom-in"]
+  },
+  "gun.descope": {
+    "sounds": ["gun/zoom-out"]
+  },
+  "gun.bomb": {
+    "sounds": ["gun/cave"]
+  },
+  "gun.awp": {
+    "sounds": ["gun/awp-1","gun/awp-2"]
+  },
+  "gun.ssg": {
+    "sounds": ["gun/ssg-1"]
+  },
+  "gun.usp": {
+    "sounds": ["gun/usp-1","gun/usp-2","gun/usp-3"]
+  },
+  "gun.nova": {
+    "sounds": ["gun/nova-1"]
+  },
+  "gun.db": {
+    "sounds": ["gun/db-1"]
+  }
+}
