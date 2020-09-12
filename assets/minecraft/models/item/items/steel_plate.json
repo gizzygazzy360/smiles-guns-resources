@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "repeating_command_block",
+	"texture_size": [12, 12],
+	"textures": {
+		"0": "guns/steel",
+		"particle": "guns/steel"
+	},
+	"elements": [
+		{
+			"from": [2, 2, 7.5],
+			"to": [14, 14, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 1.33333, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [14.66667, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 1.33333], "texture": "#0"},
+				"down": {"uv": [0, 14.66667, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-0.75, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-0.75, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"scale": [1.15, 1.15, 1.15]
+		}
+	}
+}

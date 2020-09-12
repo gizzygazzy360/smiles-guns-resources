@@ -1,0 +1,188 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data":1}, 
+                "model": "item/guns/ak47/ak47"
+        },
+        {
+            "predicate": {
+                "custom_model_data":2}, 
+                "model": "item/guns/ak47/ak47_scope"
+        },
+        {
+            "predicate": {
+                "custom_model_data":3}, 
+                "model": "item/guns/ak47/ak47_arm"
+        },
+        {
+            "predicate": {
+                "custom_model_data":4}, 
+                "model": "item/guns/ak47/ak47_arm_scope"
+        },
+        {
+            "predicate": {
+                "custom_model_data":5}, 
+                "model": "item/guns/m4a1/m4a1"
+        },
+        {
+            "predicate": {
+                "custom_model_data":6}, 
+                "model": "item/guns/m4a1/m4a1_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":7}, 
+                "model": "item/guns/m4a1/m4a1_arm"
+        },
+        {
+            "predicate": {
+                "custom_model_data":8}, 
+                "model": "item/guns/m4a1/m4a1_arm_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":9}, 
+                "model": "item/guns/famas/famas"
+        },
+        {
+            "predicate": {
+                "custom_model_data":10}, 
+                "model": "item/guns/famas/famas_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":11}, 
+                "model": "item/guns/famas/famas_arm"
+        },
+        {
+            "predicate": {
+                "custom_model_data":12}, 
+                "model": "item/guns/famas/famas_arm_scope"
+        },
+        {
+            "predicate": {
+                "custom_model_data":13}, 
+                "model": "item/guns/galil/galil"
+        },
+        {
+            "predicate": {
+                "custom_model_data":14}, 
+                "model": "item/guns/galil/galil_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":15}, 
+                "model": "item/guns/galil/galil_arm"
+        },
+        {
+            "predicate": {
+                "custom_model_data":16}, 
+                "model": "item/guns/galil/galil_arm_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":17}, 
+                "model": "item/guns/glock/glock"
+        },
+                {
+            "predicate": {
+                "custom_model_data":18}, 
+                "model": "item/guns/glock/glock_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":19}, 
+                "model": "item/guns/glock/glock2"
+        },
+                {
+            "predicate": {
+                "custom_model_data":20}, 
+                "model": "item/guns/glock/glock_scope2"
+        },
+                {
+            "predicate": {
+                "custom_model_data":21}, 
+                "model": "item/guns/awp/awp"
+        },
+                {
+            "predicate": {
+                "custom_model_data":22}, 
+                "model": "item/guns/awp/awp_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":23}, 
+                "model": "item/guns/awp/awp_arm"
+        },
+                {
+            "predicate": {
+                "custom_model_data":24}, 
+                "model": "item/guns/awp/awp_arm_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":25}, 
+                "model": "item/guns/ssg08/ssg"
+        },
+                {
+            "predicate": {
+                "custom_model_data":26}, 
+                "model": "item/guns/ssg08/ssg_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":27}, 
+                "model": "item/guns/ssg08/ssg_arm"
+        },
+                {
+            "predicate": {
+                "custom_model_data":28}, 
+                "model": "item/guns/ssg08/ssg_arm_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":29}, 
+                "model": "item/guns/usp/usp"
+        },
+                {
+            "predicate": {
+                "custom_model_data":30}, 
+                "model": "item/guns/usp/usp_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":31}, 
+                "model": "item/guns/usp/usp2"
+        },
+                {
+            "predicate": {
+                "custom_model_data":32}, 
+                "model": "item/guns/usp/usp_scope2"
+        },
+                {
+            "predicate": {
+                "custom_model_data":33}, 
+                "model": "item/guns/nova/nova"
+        },
+                {
+            "predicate": {
+                "custom_model_data":34}, 
+                "model": "item/guns/nova/nova_scope"
+        },
+                {
+            "predicate": {
+                "custom_model_data":35}, 
+                "model": "item/guns/nova/nova_arm"
+        },
+                {
+            "predicate": {
+                "custom_model_data":36}, 
+                "model": "item/guns/nova/nova_arm_scope"
+        }
+    ]
+}
